@@ -14,7 +14,7 @@
       "name": "String",
       "scope": "string",
       "settings": {
-        "foreground": "#7984D1"
+        "foreground": "#efe9fe"
       }
     },
     {
@@ -252,7 +252,7 @@
     {
       "scope": "meta.structure.dictionary.value.json string.quoted.double.json",
       "settings": {
-        "foreground": "#F8F8F2"
+        "foreground": "#7984d1"
       }
     },
     {
@@ -288,7 +288,7 @@
       "name": "Function Argument",
       "scope": "support.other.namespace.php",
       "settings": {
-        "foreground": "#F8F8F2"
+        "foreground": "#7984d1"
       }
     },
     {
@@ -483,15 +483,15 @@
     "editorHoverWidget.border": "#3b4167",
 
     "editorGroup.dropBackground": "#7984D1",
-    "editorGroupHeader.noTabsBackground": "#090819",
-    "editorGroupHeader.tabsBackground": "#090819",
+    "editorGroupHeader.noTabsBackground": "#101010",
+    "editorGroupHeader.tabsBackground": "#101010",
     "tab.activeBackground": "#000000",
     "tab.activeForeground": "#efe9fe",
-    "tab.inactiveBackground": "#090819",
+    "tab.inactiveBackground": "#101010",
     "tab.inactiveForeground": "#7984D1",
     "tab.border": "#000000",
 
-    "sideBar.background": "#090819",
+    "sideBar.background": "#101010",
     "sideBarSectionHeader.background": "#000000",
     "sideBarSectionHeader.foreground": "#7984D1",
 
@@ -509,7 +509,7 @@
     "input.border": "#763b8c",
     "inputOption.activeBorder": "#f8b630",
 
-    "scrollbar.shadow": "#090819",
+    "scrollbar.shadow": "#101010",
     "scrollbarSlider.activeBackground": "#919ad9",
     "scrollbarSlider.background": "#9199d94f",
     "scrollbarSlider.hoverBackground": "#9199d9b4",
@@ -519,13 +519,13 @@
     "activityBarBadge.background": "#eb4757",
     "activityBarBadge.foreground": "#ffffff",
 
-    "statusBar.background": "#090819",
+    "statusBar.background": "#101010",
     "statusBar.foreground": "#7984D1",
     "statusBar.noFolderBackground": "#1ea8fc",
     "statusBar.noFolderForeground": "#ffffff",
 
-    "panel.background": "#090819",
-    "panel.border": "#090819",
+    "panel.background": "#101010",
+    "panel.border": "#101010",
     "panel.dropBackground": "#7983d194",
     "panelTitle.activeBorder": "#1ea8fc",
     "panelTitle.activeForeground": "#efe9fe",
@@ -540,7 +540,7 @@
     "peekViewTitle.background": "#000000",
     "peekViewTitleDescription.foreground": "#7984D1",
 
-    "titleBar.activeBackground": "#090819",
+    "titleBar.activeBackground": "#101010",
 
     "gitDecoration.modifiedResourceForeground": "#ff0",
     "gitDecoration.deletedResourceForeground": "#eb4757",
@@ -548,7 +548,7 @@
     "gitDecoration.ignoredResourceForeground": "#7984D1",
     "gitDecoration.conflictingResourceForeground": "#df85ff",
 
-    "terminal.background": "#090819",
+    "terminal.background": "#101010",
     "terminal.foreground": "#e4eeff",
     "terminal.ansiBlack": "#283034",
     "terminal.ansiRed": "#eb4757",
