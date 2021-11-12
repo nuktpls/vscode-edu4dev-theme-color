@@ -14,7 +14,7 @@
       "name": "String",
       "scope": "string",
       "settings": {
-        "foreground": "#efe9fe"
+        "foreground": "#afffd4"
       }
     },
     {
@@ -448,17 +448,17 @@
     }
   ],
   "colors": {
-    "foreground": "#efe9fe",
-    "descriptionForeground": "#efe9fe",
+    "foreground": "#afffd4",
+    "descriptionForeground": "#afffd4",
 
     "button.background": "#1ea8fc",
     "button.hoverBackground": "#1ea8fc",
-    "button.foreground": "#efe9fe",
+    "button.foreground": "#afffd4",
 
     "progressBar.background": "#eb4757",
 
     "editor.background": "#000000",
-    "editor.foreground": "#efe9fe",
+    "editor.foreground": "#afffd4",
     "editorLineNumber.foreground": "#484f7d",
     "editorLineNumber.activeForeground": "#00cfff",
     "editorCursor.foreground": "#eb4757",
@@ -486,7 +486,7 @@
     "editorGroupHeader.noTabsBackground": "#101010",
     "editorGroupHeader.tabsBackground": "#101010",
     "tab.activeBackground": "#000000",
-    "tab.activeForeground": "#efe9fe",
+    "tab.activeForeground": "#afffd4",
     "tab.inactiveBackground": "#101010",
     "tab.inactiveForeground": "#7984D1",
     "tab.border": "#000000",
@@ -528,7 +528,7 @@
     "panel.border": "#101010",
     "panel.dropBackground": "#7983d194",
     "panelTitle.activeBorder": "#1ea8fc",
-    "panelTitle.activeForeground": "#efe9fe",
+    "panelTitle.activeForeground": "#afffd4",
     "panelTitle.inactiveForeground": "#7984D1",
 
     "peekView.border": "#f8b630",

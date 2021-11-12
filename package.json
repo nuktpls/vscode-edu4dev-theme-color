@@ -2,7 +2,7 @@
   "name": "vscode-edu4dev-color-theme",
   "displayName": "Edu4Dev - VScode Color Theme",
   "publisher": "edu4dev",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "engines": {
     "vscode": "^1.59.0"
   },
