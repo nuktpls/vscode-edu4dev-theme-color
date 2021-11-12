@@ -2,7 +2,7 @@
   "name": "vscode-edu4dev-color-theme",
   "displayName": "Edu4Dev - VScode Color Theme",
   "publisher": "edu4dev",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "engines": {
     "vscode": "^1.59.0"
   },
@@ -28,7 +28,7 @@
       {
         "label": "Edu4Dev Dark",
         "uiTheme": "vs-dark",
-        "path": "./themes/edu4dev-dark-color-theme.json"
+        "path": "./themes/vscode-edu4dev-theme-color.json"
       }
     ]
   },
