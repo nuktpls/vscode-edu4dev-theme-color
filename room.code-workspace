@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "Theme",
+      "path": "./themes"
+    },
+		{
+			"name": "Root",
+      "path": "./"
+    }
+	],
+	"settings": {}
+}

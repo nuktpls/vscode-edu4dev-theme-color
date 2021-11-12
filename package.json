@@ -1,0 +1,43 @@
+{
+  "name": "vscode-edu4dev-color-theme",
+  "displayName": "Edu4Dev - VScode Color Theme",
+  "publisher": "edu4dev",
+  "version": "1.0.0",
+  "engines": {
+    "vscode": "^1.59.0"
+  },
+  "icon": "https://github.com/nuktpls/vscode-edu4dev-theme-color/blob/master/images/ico-edu4dev-logo.png",
+  "galleryBanner": {
+    "color": "#000",
+    "theme": "dark"
+  },
+  "author": {
+    "name": "Edu4Dev",
+    "email": "poupaluz@edu4.dev",
+    "url": "https://edu4.dev"
+  },
+  "repository": {
+    "url": "https://github.com/nuktpls/vscode-edu4dev-theme-color.git",
+    "type": "git"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Edu4Dev Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/edu4dev-dark-color-theme.json"
+      }
+    ]
+  },
+  "bugs": {
+    "url": "https://github.com/nuktpls/vscode-edu4dev-theme-color/issues"
+  },
+  "__metadata": {
+    "id": "xxxx",
+    "publisherId": "xxxx",
+    "publisherDisplayName": "edu4dev"
+  }
+}
