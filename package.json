@@ -6,7 +6,7 @@
   "engines": {
     "vscode": "^1.59.0"
   },
-  "icon": "https://github.com/nuktpls/vscode-edu4dev-theme-color/blob/master/images/icon.png",
+  "icon": "images/icon.png",
   "galleryBanner": {
     "color": "#000",
     "theme": "dark"
